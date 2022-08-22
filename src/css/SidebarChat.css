@@ -1,0 +1,39 @@
+.sidebar{
+    text-decoration: inherit;
+    color: inherit;
+}
+
+.sidebar a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.sidebarChat{
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 2px solid #F0F2F5;
+}
+
+.sidebarChat:focus{
+    outline: none;
+}
+
+.sidebarChat:hover{
+    background-color: #F0F2F5;
+}
+
+.sidebarChat_info > h2{
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.sidebarChat_info{
+    margin-left: 15px;
+
+}
+
+
+.side{
+    width: 100%;
+}
