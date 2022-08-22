@@ -1,6 +1,6 @@
 Whatsapp Clone
 This Whatsapp clone is made using ReactJS and Firebase 
-This has a Login Functionality with Goggle Account , User can create a separate chat room or chat in a existing group.
+This has a Login Functionality with Goggle Account , User can create an separate chat room or chat in a existing group.
 This has a dynamic Display picture and username of your account which is taken during goggle authentication.
 This has a last seen , last message sent functionality in which server time of firebase is used.
 
